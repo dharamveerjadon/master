@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="question_2">Question2</string>
+    <string name="question_3">Question3</string>
+    <string name="answer">Answer:</string>
+    <string name="summary">Summary</string>
+    <string name="name">Name:</string>
+
+    <!--questionS-->
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="who_is_the_best_cricketer_in_the_world">Who is the best cricketer in the world?</string>
+    <string name="what_are_the_colors_in_the_indian_national_flag">What are the colors in the Indian national Flag?</string>
+    <string name="history">History</string>
+</resources>
